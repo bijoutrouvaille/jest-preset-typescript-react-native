@@ -19,6 +19,6 @@
   "dependencies": {
     "babel-jest": "^19.0.0",
     "jest": "^19.0.0",
-    "react-native": "^0.41.2"
+    "react-native": "^0.42.3"
   }
 }
